@@ -4,10 +4,16 @@
   "files": [],
   "references": [
     {
-      "path": "./apps/nexservices-e2e"
+      "path": "./apps/api-gateway-e2e"
     },
     {
-      "path": "./apps/nexservices"
+      "path": "./apps/api-gateway"
+    },
+    {
+      "path": "./apps/products-e2e"
+    },
+    {
+      "path": "./apps/products"
     }
   ]
 }
